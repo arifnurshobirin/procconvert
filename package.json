@@ -1,8 +1,8 @@
 {
-  "homepage": "http://arifnurshobirin.github.io/procconvert",
+  "homepage": "https://arifnurshobirin.github.io/procconvert",
   "name": "procconvert",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@craco/craco": "^6.4.5",
@@ -19,7 +19,7 @@
   "scripts": {
     "start": "craco start",
     "predeploy": "craco build",
-    "deploy": "gh-pages -d deploy",
+    "deploy": "gh-pages -d build",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
