@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/procconvert/static/css/main.53980912.css",
+    "main.js": "/procconvert/static/js/main.1473898d.js",
+    "static/js/494.28e6b70d.chunk.js": "/procconvert/static/js/494.28e6b70d.chunk.js",
+    "index.html": "/procconvert/index.html",
+    "main.53980912.css.map": "/procconvert/static/css/main.53980912.css.map",
+    "main.1473898d.js.map": "/procconvert/static/js/main.1473898d.js.map",
+    "494.28e6b70d.chunk.js.map": "/procconvert/static/js/494.28e6b70d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53980912.css",
+    "static/js/main.1473898d.js"
+  ]
+}
