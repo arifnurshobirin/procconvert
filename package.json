@@ -1,7 +1,8 @@
 {
+  "homepage": "http://arifnurshobirin.github.io/procconvert",
   "name": "procconvert",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@craco/craco": "^6.4.5",
